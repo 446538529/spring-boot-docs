@@ -1,0 +1,75 @@
+
+----创单
+{
+    "accp_txno": "2018101102140569",
+    "oid_partner": "2018062100009088",
+    "ret_code": "0000",
+    "ret_msg": "交易成功",
+    "total_amount": "0.50",
+    "txn_seqno": "20181011213338284",
+    "user_id": "20181011162142482"
+}
+----密码因子
+{
+    "license": "YmpQOG9OeXhld2puUWpPYisrT050aWVWdFVac1o4TlZmM1dOWUpLSHBnT2IxM2VUOVM4Qk1SNDhSbEh2TkVKanNjaXdYVW4rYmRCNlh3WEVWR3F5YjB5MHd0VGFOWEcvcTNpNGNPMGpFNkc5YXBoTnRNa3NhZytQMjlNY2thMFFSMzd3OXE3Mm1WZ29mNWI4eng5cVlKVEx3VDhXV25BQm8rN3dFQktmOVJvPXsiaWQiOjAsInR5cGUiOiJ0ZXN0IiwicGxhdGZvcm0iOjEwLCJub3RiZWZvcmUiOiIyMDE4MDcyNSIsIm5vdGFmdGVyIjoiMjAxODEwMjUifQ==",
+    "map_arr": "WycxMTgnLCAnNzAnLCAnNDMnLCAnNzgnLCAnMTA4JywgJzYwJywgJzgyJywgJzEwNCcsICc2OCcsICc0NicsICc3NicsICc4MCcsICczNCcsICcxMDUnLCAnNDgnLCAnMTI2JywgJzk1JywgJzM1JywgJzQ3JywgJzYzJywgJzEyNCcsICc0MCcsICcxMTUnLCAnOTMnLCAnNjQnLCAnNDQnLCAnNzcnLCAnMTI1JywgJzU0JywgJzY1JywgJzg4JywgJzkwJywgJzU5JywgJzUyJywgJzM4JywgJzk3JywgJzEwNycsICcxMTQnLCAnNTUnLCAnODUnLCAnMTA5JywgJzkxJywgJzQyJywgJzEwNicsICcxMDMnLCAnNTMnLCAnNzknLCAnMTEyJywgJzUwJywgJzk5JywgJzc0JywgJzEyMicsICcxMDAnLCAnMTExJywgJzExMycsICc2NycsICc4NycsICc2MScsICcxMTYnLCAnNzEnLCAnMTE5JywgJzEwMScsICc1OCcsICc4NicsICc5NCcsICc2MicsICcxMjMnLCAnMzMnLCAnNDEnLCAnNzUnLCAnNTcnLCAnOTgnLCAnODMnLCAnMzcnLCAnMTIxJywgJzQ5JywgJzgxJywgJzg0JywgJzk2JywgJzkyJywgJzExNycsICcxMTAnLCAnNzMnLCAnMTIwJywgJzY2JywgJzcyJywgJzM5JywgJzM2JywgJzEwMicsICc2OScsICc4OScsICc0NScsICc1MScsICc1Nidd",
+    "oid_partner": "2018062100009088",
+    "random_key": "b8ec035a-0dca-46ea-a06f-10bb4e6c5641",
+    "random_value": "18287810934974534378954638976560",
+    "ret_code": "0000",
+    "ret_msg": "交易成功",
+    "rsa_public_content": "308189028181009017e40c4b053ef663903066618131e705a91641441d8bc5de082a12147559dcbc790e7b85a0e42a388effa2b7d0c5f734733ef14869fb735b5245bda1d79e32c35004288190e080f8abe8ae7c8f2ff81738c1c32d6e944be7ad1197cb1d8c76455d6da8d623a0513647f5a59d1e9aa6ca077f136040b550ad411728455bf6230203010001",
+    "user_id": "20181011224852244"
+}
+------开户
+{
+    "license": "YmpQOG9OeXhld2puUWpPYisrT050aWVWdFVac1o4TlZmM1dOWUpLSHBnT2IxM2VUOVM4Qk1SNDhSbEh2TkVKanNjaXdYVW4rYmRCNlh3WEVWR3F5YjB5MHd0VGFOWEcvcTNpNGNPMGpFNkc5YXBoTnRNa3NhZytQMjlNY2thMFFSMzd3OXE3Mm1WZ29mNWI4eng5cVlKVEx3VDhXV25BQm8rN3dFQktmOVJvPXsiaWQiOjAsInR5cGUiOiJ0ZXN0IiwicGxhdGZvcm0iOjEwLCJub3RiZWZvcmUiOiIyMDE4MDcyNSIsIm5vdGFmdGVyIjoiMjAxODEwMjUifQ==",
+    "map_arr": "Wyc5NicsICcxMjInLCAnMTI1JywgJzM5JywgJzcxJywgJzU2JywgJzY5JywgJzExNicsICc0MicsICc4MCcsICczOCcsICcxMTQnLCAnODYnLCAnOTknLCAnMzcnLCAnNDMnLCAnMTA4JywgJzc4JywgJzMzJywgJzkzJywgJzQ1JywgJzgyJywgJzU1JywgJzc3JywgJzg5JywgJzM0JywgJzUwJywgJzY1JywgJzYwJywgJzEyMycsICc2NCcsICcxMDQnLCAnNzInLCAnNjgnLCAnNDQnLCAnMTAxJywgJzgzJywgJzQxJywgJzM2JywgJzU3JywgJzg3JywgJzExMScsICcxMTUnLCAnOTUnLCAnMTEwJywgJzEwMCcsICc4NCcsICc5NycsICc1MicsICcxMTgnLCAnMTAyJywgJzEwOScsICc2NycsICc5MScsICcxMDUnLCAnMTIwJywgJzQ4JywgJzc2JywgJzY2JywgJzgxJywgJzExMicsICc1OCcsICcxMjYnLCAnMTI0JywgJzYyJywgJzYzJywgJzQ3JywgJzkwJywgJzczJywgJzc1JywgJzU0JywgJzQ2JywgJzQ5JywgJzM1JywgJzU5JywgJzEwNycsICc4NScsICcxMjEnLCAnNzQnLCAnOTInLCAnNzknLCAnMTEzJywgJzQwJywgJzg4JywgJzEwMycsICcxMTknLCAnMTE3JywgJzk0JywgJzEwNicsICc2MScsICc1MScsICc1MycsICc3MCcsICc5OCdd",
+    "oid_partner": "2018062100009088",
+    "random_key": "8cf07f58-6faf-48be-b3f2-3e39536622ec",
+    "random_value": "09633044999646321973469995059104",
+    "ret_code": "0000",
+    "ret_msg": "交易成功",
+    "rsa_public_content": "308189028181009017e40c4b053ef663903066618131e705a91641441d8bc5de082a12147559dcbc790e7b85a0e42a388effa2b7d0c5f734733ef14869fb735b5245bda1d79e32c35004288190e080f8abe8ae7c8f2ff81738c1c32d6e944be7ad1197cb1d8c76455d6da8d623a0513647f5a59d1e9aa6ca077f136040b550ad411728455bf6230203010001",
+    "user_id": "20181011224852244"
+}
+
+------开户验证
+{
+    "accp_txno": "20181011000001750221",
+    "oid_partner": "2018062100009088",
+    "oid_userno": "201810110002510151",
+    "ret_code": "0000",
+    "ret_msg": "交易成功",
+    "txn_seqno": "20181011224852244",
+    "user_id": "20181011224852244",
+    "user_status": "CHECK_PENDING"
+}
+
+
+-----再次创单成功
+{
+    "accp_txno": "2018101102140575",
+    "oid_partner": "2018062100009088",
+    "ret_code": "0000",
+    "ret_msg": "交易成功",
+    "total_amount": "0.50",
+    "txn_seqno": "20181011230654257",
+    "user_id": "20181011224852244"
+}
+
+----因子
+{
+    "license": "YmpQOG9OeXhld2puUWpPYisrT050aWVWdFVac1o4TlZmM1dOWUpLSHBnT2IxM2VUOVM4Qk1SNDhSbEh2TkVKanNjaXdYVW4rYmRCNlh3WEVWR3F5YjB5MHd0VGFOWEcvcTNpNGNPMGpFNkc5YXBoTnRNa3NhZytQMjlNY2thMFFSMzd3OXE3Mm1WZ29mNWI4eng5cVlKVEx3VDhXV25BQm8rN3dFQktmOVJvPXsiaWQiOjAsInR5cGUiOiJ0ZXN0IiwicGxhdGZvcm0iOjEwLCJub3RiZWZvcmUiOiIyMDE4MDcyNSIsIm5vdGFmdGVyIjoiMjAxODEwMjUifQ==",
+    "map_arr": "Wyc4NicsICcxMDMnLCAnNjInLCAnODAnLCAnMTEyJywgJzU2JywgJzQyJywgJzg5JywgJzYwJywgJzk5JywgJzkyJywgJzk0JywgJzk3JywgJzg4JywgJzExNCcsICcxMTknLCAnNjMnLCAnODEnLCAnMTE2JywgJzU0JywgJzcyJywgJzM5JywgJzExMCcsICcxMjQnLCAnMzYnLCAnNzgnLCAnMTE3JywgJzYxJywgJzc2JywgJzg1JywgJzEwNScsICcxMjEnLCAnNTgnLCAnNDMnLCAnNDQnLCAnMzMnLCAnNTMnLCAnODMnLCAnMzUnLCAnOTgnLCAnMTEzJywgJzkzJywgJzc3JywgJzk1JywgJzU1JywgJzczJywgJzUyJywgJzY4JywgJzEyMCcsICcxMTEnLCAnOTEnLCAnNTknLCAnNjknLCAnNzknLCAnNjYnLCAnNDUnLCAnMzgnLCAnMTAwJywgJzg3JywgJzU3JywgJzExOCcsICczNycsICc2NycsICc0OCcsICcxMDQnLCAnMTIzJywgJzEwNicsICc4NCcsICc2NCcsICc0NicsICcxMDcnLCAnNjUnLCAnNDcnLCAnMTE1JywgJzgyJywgJzQwJywgJzEwMScsICc3MScsICc3MCcsICczNCcsICcxMjYnLCAnNDEnLCAnNzUnLCAnOTYnLCAnNDknLCAnMTAyJywgJzkwJywgJzUxJywgJzEyNScsICc3NCcsICcxMDknLCAnNTAnLCAnMTIyJywgJzEwOCdd",
+    "oid_partner": "2018062100009088",
+    "random_key": "c5bf5483-321a-4724-894d-cdfa82b3255b",
+    "random_value": "30514170133267804461185235212107",
+    "ret_code": "0000",
+    "ret_msg": "交易成功",
+    "rsa_public_content": "308189028181009017e40c4b053ef663903066618131e705a91641441d8bc5de082a12147559dcbc790e7b85a0e42a388effa2b7d0c5f734733ef14869fb735b5245bda1d79e32c35004288190e080f8abe8ae7c8f2ff81738c1c32d6e944be7ad1197cb1d8c76455d6da8d623a0513647f5a59d1e9aa6ca077f136040b550ad411728455bf6230203010001",
+    "user_id": "20181011224852244"
+}
+user_id:20181011224852244
+password:abc123
+银行卡号：6217003320069063173
